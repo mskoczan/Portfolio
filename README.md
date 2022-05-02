@@ -15,6 +15,7 @@ experience gained through personal study and research.
 * [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
 * [TestLink](https://www.testlink.org/) - The application provides Test specification, Test plans and execution, Reporting, Requirements specification and collaborate with well-known bug trackers.
 * [Postman](https://www.postman.com/) - Testing tool for REST API
+* [SoapUI](https://sourceforge.net/projects/soapui/)-  is the de-facto standard for REST and SOAP API functional, security and performance testing.
 * Selenium IDE - Open source record and playback test automation for the web
 * Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 * Mouse Recorder - mouse and keyboard recording macro
