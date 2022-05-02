@@ -46,6 +46,6 @@ experience gained through personal study and research.
 
 # Courses
 * Coders Lab Sp. z o.o. : 
-** Manual Tester
-** Automation Tester
-** Data analysis
+  * Manual Tester (November 2021)
+  * Automation Tester (March 2022)
+  * Data analysis (April 2022)
