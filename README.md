@@ -16,6 +16,7 @@ experience gained through personal study and research.
 * [TestLink](https://www.testlink.org/) - The application provides Test specification, Test plans and execution, Reporting, Requirements specification and collaborate with well-known bug trackers.
 * [Postman](https://www.postman.com/) - Testing tool for REST API
 * [SoapUI](https://sourceforge.net/projects/soapui/)-  is the de-facto standard for REST and SOAP API functional, security and performance testing.
+* [Cucumber.io](https://cucumber.io/) - is a testing tool that supports Behavior Driven Development (BDD) framework.
 * [Selenium](https://www.selenium.dev/), [WebDriver](https://www.selenium.dev/documentation/webdriver/) - is for automating web applications for testing purposes
 * [IntelliJ IDEA](https://www.selenium.dev/documentation/webdriver/) - is an integrated development environment (IDE) written in Java for developing computer software
 * [Selenium IDE](https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
@@ -27,3 +28,13 @@ experience gained through personal study and research.
 * [Github, Inc](https://github.com/) -  is a provider of Internet hosting for software development and version control using Git
 * [MySQL](https://www.mysql.com/) - is an open-source relational database management system (RDBMS)
 * [DataGrip](https://www.jetbrains.com/datagrip/) -  correctly resolves all references in your SQL code and helps you refactor them
+
+# Tech skills
+
+* SQL,
+* DevTools,
+* Software testing,
+* Creating test cases,
+* Reporting bugs,
+* Finding unique CSS Selectors and xPaths,
+* Creating diagrams and decision tables,
