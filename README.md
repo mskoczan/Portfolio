@@ -49,3 +49,10 @@ experience gained through personal study and research.
   * Manual Tester (November 2021)
   * Automation Tester (March 2022)
   * Data Analysis (April 2022)
+
+# Recommend blogs
+
+* [Ministry of Testing](https://www.ministryoftesting.com/)
+* [testelka](https://testelka.pl/blog/)
+* [GURU99](https://www.guru99.com/blog)
+* [Testerzy.pl](https://testerzy.pl/)
