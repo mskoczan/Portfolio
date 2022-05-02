@@ -7,7 +7,7 @@ My name is Marcin Koczan, I have been working as a team leader at Amazon for 4 y
 
 * What is testing for me - searching for the truth about a product
 
-My goal is to further develop test knowledge and technical skills. at this point I would like to share mine
+My goal is to further develop test knowledge and technical skills. At this point I would like to share mine
 experience gained through personal study and research.
 
 # Tools
