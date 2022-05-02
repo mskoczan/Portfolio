@@ -56,3 +56,4 @@ experience gained through personal study and research.
 * [testelka](https://testelka.pl/blog/)
 * [GURU99](https://www.guru99.com/blog)
 * [Testerzy.pl](https://testerzy.pl/)
+* [RemigiuszBednarczyk.pl](https://remigiuszbednarczyk.pl/)
