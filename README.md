@@ -16,11 +16,11 @@ experience gained through personal study and research.
 * [TestLink](https://www.testlink.org/) - The application provides Test specification, Test plans and execution, Reporting, Requirements specification and collaborate with well-known bug trackers.
 * [Postman](https://www.postman.com/) - Testing tool for REST API
 * [SoapUI](https://sourceforge.net/projects/soapui/)-  is the de-facto standard for REST and SOAP API functional, security and performance testing.
-* Selenium IDE - Open source record and playback test automation for the web
-* Bug Magnet - Exploratory testing assistant for Chrome and Firefox
-* Mouse Recorder - mouse and keyboard recording macro
+* [Selenium](https://www.selenium.dev/), [WebDriver](https://www.selenium.dev/documentation/webdriver/) - is for automating web applications for testing purposes
+* [Selenium IDE](https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
+* [Mouse Recorder](https://www.mouserecorder.com/download.php) - mouse and keyboard recording macro
 * [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
-* Xmind, Mind Meister - Mind mapping softwares
+* [Xmind](https://www.xmind.net/) - Mind mapping softwares
 * [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
 * [Jing](https://www.techsmith.com/jing-tool.html) - Screen capture software
 * [Github, Inc](https://github.com/) -  is a provider of Internet hosting for software development and version control using Git
