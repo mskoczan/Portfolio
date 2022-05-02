@@ -21,13 +21,11 @@ experience gained through personal study and research.
 * [IntelliJ IDEA](https://www.selenium.dev/documentation/webdriver/) - is an integrated development environment (IDE) written in Java for developing computer software
 * [Selenium IDE](https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
 * [Mouse Recorder](https://www.mouserecorder.com/download.php) - mouse and keyboard recording macro
-* [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
-* [Xmind](https://www.xmind.net/) - Mind mapping softwares
-* [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-* [Jing](https://www.techsmith.com/jing-tool.html) - Screen capture software
-* [Github, Inc](https://github.com/) -  is a provider of Internet hosting for software development and version control using Git
-* [MySQL](https://www.mysql.com/) - is an open-source relational database management system (RDBMS)
-* [DataGrip](https://www.jetbrains.com/datagrip/) -  correctly resolves all references in your SQL code and helps you refactor them
+* [Xmind](https://www.xmind.net/) - Mind mapping software.
+* [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software.
+* [Github, Inc](https://github.com/) -  is a provider of Internet hosting for software development and version control using Git.
+* [MySQL](https://www.mysql.com/) - is an open-source relational database management system (RDBMS).
+* [DataGrip](https://www.jetbrains.com/datagrip/) -  correctly resolves all references in your SQL code and helps you refactor them.
 
 # Tech skills
 
