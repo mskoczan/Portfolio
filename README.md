@@ -31,10 +31,21 @@ experience gained through personal study and research.
 
 # Tech skills
 
-* SQL,
-* DevTools,
-* Software testing,
-* Creating test cases,
-* Reporting bugs,
-* Finding unique CSS Selectors and xPaths,
-* Creating diagrams and decision tables,
+* JAVA (basic).
+* SQL.
+* DevTools.
+* Software testing.
+* Creating test cases.
+* Reporting bugs.
+* Finding unique CSS Selectors and xPaths.
+* Creating diagrams and decision tables.
+
+# Certificates
+
+* ISTQB - before exam
+
+# Courses
+* Coders Lab Sp. z o.o. : 
+** Manual Tester
+** Automation Tester
+** Data analysis
