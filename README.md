@@ -48,4 +48,4 @@ experience gained through personal study and research.
 * Coders Lab Sp. z o.o. : 
   * Manual Tester (November 2021)
   * Automation Tester (March 2022)
-  * Data analysis (April 2022)
+  * Data Analysis (April 2022)
