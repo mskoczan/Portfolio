@@ -60,4 +60,4 @@ experience gained through personal study and research.
 
 # My Project
 
-[Selenium/WebDriver final task](https://github.com/mskoczan/SeleniumCourse_FinalTask) Task to complete the Automation Tester course
+[Selenium/WebDriver final task to complete the Automation Tester course](https://github.com/mskoczan/SeleniumCourse_FinalTask)
