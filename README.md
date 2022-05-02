@@ -57,3 +57,7 @@ experience gained through personal study and research.
 * [GURU99](https://www.guru99.com/blog)
 * [Testerzy.pl](https://testerzy.pl/)
 * [RemigiuszBednarczyk.pl](https://remigiuszbednarczyk.pl/)
+
+# My Project
+
+[Selenium/WebDriver final task](https://github.com/mskoczan/SeleniumCourse_FinalTask) Task to complete the Automation Tester course
