@@ -58,4 +58,8 @@ experience gained through personal study and research.
 
 # My Project
 
-[Selenium/WebDriver final task to complete the Automation Tester course](https://github.com/mskoczan/SeleniumCourse_FinalTask)
+Manual Test
+   * [Plan Testów platformy „CODERS GURU”](https://drive.google.com/file/d/1plxk8FvVe9PCWli0qhynWh3lCUEmwBe7/view?usp=sharing)
+
+Automation Test
+   * [Selenium/WebDriver final task to complete the Automation Tester course](https://github.com/mskoczan/SeleniumCourse_FinalTask)
