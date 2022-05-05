@@ -60,6 +60,7 @@ Coders Lab Sp. z o.o. :
 
 Manual Test
   * [Plan Testów platformy „CODERS GURU”](https://drive.google.com/file/d/1plxk8FvVe9PCWli0qhynWh3lCUEmwBe7/view?usp=sharing)
+  * [Projekt Techniczny CG_1.0](https://docs.google.com/document/d/1KTUiA3OqHFe41EII_hPSL-T4DCajQ9e985HpPCXPZ-0/edit?usp=sharing)
 
 Automation Test
   * [Selenium/WebDriver final task to complete the Automation Tester course](https://github.com/mskoczan/SeleniumCourse_FinalTask)
