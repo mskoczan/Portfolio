@@ -32,7 +32,7 @@ experience gained through personal study and research.
 * JAVA.
 * SQL.
 * DevTools.
-* test plan
+* Test plan
 * Creating test cases.
 * Reporting bugs.
 * Finding unique CSS Selectors and xPaths.
