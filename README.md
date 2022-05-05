@@ -7,7 +7,7 @@ My name is Marcin Koczan, I have been working as a team leader at Amazon for 4 y
 
 * What is testing for me - searching for the truth about a product
 
-My goal is to further develop test knowledge and technical skills. At this point I would like to share mine
+My goal is to further develop test knowledge and technical skills. At this point I would like to share my
 experience gained through personal study and research.
 
 # Tools
@@ -51,6 +51,7 @@ Coders Lab Sp. z o.o. :
 
 # Recommend blogs
 
+* [Testowanie Oprogramowania autor Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/) Polecam każdemu :)
 * [Ministry of Testing](https://www.ministryoftesting.com/)
 * [testelka](https://testelka.pl/blog/)
 * [GURU99](https://www.guru99.com/blog)
