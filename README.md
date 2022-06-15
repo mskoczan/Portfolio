@@ -53,7 +53,7 @@ Coders Lab Sp. z o.o. :
 
 * [testowanie-oprogramowania autor Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/) Recommend :)
 * [uTest](https://www.utest.com/).
-* [REMIGIUSZ BEDNARCZYK](https://remigiuszbednarczyk.pl/portfolio-testera).
+* [REMIGIUSZ BEDNARCZYK - (portfolios based on his article)](https://remigiuszbednarczyk.pl/portfolio-testera).
 * [Testowanie Oprogramowania autor Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/).
 * [Ministry of Testing](https://www.ministryoftesting.com/).
 * [testelka](https://testelka.pl/blog/).
