@@ -1,16 +1,17 @@
-# Portfolio
+## Portfolio
 My Tester's Portfolio
 
-# About me
+## About me
 
-My name is Marcin Koczan, I have been working as a team leader at Amazon for 4 years, I have been in the ICQA department for 2 years (previously TL in the following departments: Customer Returns, Vendor Return, DOCK IN / OUT). Looking for a new way for further development, I started to be interested in testing and so I found the Manual Tester course, which I completed with a positive result. In order to deepen my knowledge and technical skills, in April 2022 I completed the Automation Tester course.
+My name is Marcin Koczan, I have been working as a team leader in a corporation for the last 4 years. I have spent the last 2 years in the ICQA quality department (previously TL in the following departments: Customer Returns, Supplier Returns, DOCK IN / OUT). Looking for a new path for further development, I started to be interested in manual testing and that's how I found the “Manual Tester” course, which I completed with a positive result. Testing kind of reminds me of developing and conducting audits to improve processes.
 
-* "What is testing for me - searching for the truth about a product" I like that sentence because I fully agree with it.
+ **“What is testing for me – a constant search for the truth about the product”.** I like this sentence because I fully agree with it.
 
-My goal is to further develop test knowledge and technical skills.
-At this point I would like to share my experience gained through personal study and research.
+My goal is to further develop test knowledge and technical skills. Thanks to this look, in April 2022 I completed another course “Automation Tester”. After completing the courses, I got to know the tools and technologies listed below.
+GitHub is the perfect place to share my experience through personal study and research.
+Thank you for looking here.
 
-# Tools
+## Tools
 
 * [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers.
 * [TestLink](https://www.testlink.org/) - The application provides Test specification, Test plans and execution, Reporting, Requirements specification and collaborate  with well-known bug trackers.
@@ -27,7 +28,7 @@ At this point I would like to share my experience gained through personal study 
 * [MySQL](https://www.mysql.com/) - is an open-source relational database management system (RDBMS).
 * [DataGrip](https://www.jetbrains.com/datagrip/) -  correctly resolves all references in your SQL code and helps you refactor them.
 
-# Tech skills
+## Tech skills
 
 * JAVA.
 * SQL.
@@ -38,18 +39,18 @@ At this point I would like to share my experience gained through personal study 
 * Finding unique CSS Selectors and xPaths.
 * Creating diagrams and decision tables.
 
-# Certificates
+## Certificates
 
 ISTQB - before exam.
 
-# Courses
+## Courses
 
 Coders Lab Sp. z o.o. : 
  * Manual Tester (November 2021).
  * Automation Tester (March 2022).
  * Data Analysis (April 2022).
 
-# Recommend blogs and other useful websites
+## Recommend blogs and other useful websites
 
 * [testowanie-oprogramowania autor Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/) Recommend :)
 * [uTest](https://www.utest.com/).
@@ -60,7 +61,7 @@ Coders Lab Sp. z o.o. :
 * [GURU99](https://www.guru99.com/blog).
 * [Testerzy.pl](https://testerzy.pl/).
 
-# My Project
+## My Project
 
 Manual Test
   * [Plan Testów platformy „CODERS GURU”](https://drive.google.com/file/d/1plxk8FvVe9PCWli0qhynWh3lCUEmwBe7/view?usp=sharing).
