@@ -3,7 +3,7 @@ My Tester's Portfolio
 
 ## About me
 
-My name is Marcin Koczan, I have been working as a team leader in a corporation for the last 4 years. I have spent the last 2 years in the ICQA quality department (previously TL in the following departments: Customer Returns, Supplier Returns, DOCK IN / OUT). Looking for a new path for further development, I started to be interested in manual testing and that's how I found the “Manual Tester” course, which I completed with a positive result. Testing kind of reminds me of developing and conducting audits to improve processes.
+My name is Marcin Koczan, I have been working as a team leader in a corporation for over 4 years. I have spent the last 2 years in the ICQA quality department (previously TL in the following departments: Customer Returns, Supplier Returns, DOCK IN / OUT). Looking for a new path for further development, I started to be interested in manual testing and that's how I found the “Manual Tester” course, which I completed with a positive result. Testing kind of reminds me of developing and conducting audits to improve processes.
 
  **“What is testing for me – a constant search for the truth about the product”.** I like this sentence because I fully agree with it.
 
